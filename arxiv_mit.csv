@@ -1,0 +1,1106 @@
+id,title,summary,published,authors,primary category
+http://arxiv.org/abs/1408.0393v1,Standards for Graph Algorithm Primitives,"  It is our view that the state of the art in constructing a large collection
+of graph algorithms in terms of linear algebraic operations is mature enough to
+support the emergence of a standard set of primitive building blocks. This
+paper is a position paper defining the problem and announcing our intention to
+launch an open effort to define this standard.
+",2014-08-02T16:17:40Z,"[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44dadf50>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44daddd0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44dadcb0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44dada70>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44dad770>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44dad590>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44dad410>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44dad230>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44dad0b0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44da8770>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44da8bf0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44da8e30>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44da8c50>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44da8b30>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44da89b0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44da8890>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44da8710>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44da84d0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44da82f0>]",cs.MS
+http://arxiv.org/abs/quant-ph/9703054v1,Simulation of Many-Body Fermi Systems on a Universal Quantum Computer,"  We provide fast algorithms for simulating many body Fermi systems on a
+universal quantum computer. Both first and second quantized descriptions are
+considered, and the relative computational complexities are determined in each
+case. In order to accommodate fermions using a first quantized Hamiltonian, an
+efficient quantum algorithm for anti-symmetrization is given. Finally, a
+simulation of the Hubbard model is discussed in detail.
+",1997-03-28T20:03:47Z,"[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44d9ee30>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44d9ed10>]",quant-ph
+http://arxiv.org/abs/physics/0507095v1,"eRHIC Detector Design Studies - Implications and Constraints on the ep
+  (A) Interaction-Region Design","  An electron-proton/ion collider facility (eRHIC) is under consideration at
+Brookhaven National Laboratory (BNL). Such a new facility will require the
+design and construction of a new optimized detector profiting from the world's
+first ep collider facility HERA at DESY. The detailed design is closely coupled
+to the design of the interaction region and thus to the machine development
+work in general. Implications and constraints on the ep(A) interaction-region
+design will be discussed.
+",2005-07-13T16:30:49Z,"[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f45478e30>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44d98c50>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44d98230>]",physics.acc-ph
+http://arxiv.org/abs/0902.2604v2,Toward the End of Stars: Discovering the Galaxy's Coldest Brown Dwarfs,"  This White Paper to the National Academy of Sciences Astro2010 Decadal Review
+Committee highlights cross-disciplinary science opportunities over the next
+decade with cold brown dwarfs, sources defined here as having photospheric
+temperatures less than ~1000 K.
+",2009-02-16T04:41:14Z,"[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44d987d0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44d985f0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44d984d0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44d98350>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44d98110>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b1ddd0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b1dd10>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b1def0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b370b0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b37fb0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b379b0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b372f0>]",astro-ph.GA
+http://arxiv.org/abs/math/0409145v1,Logarithmic connections with vanishing p-curvature,"  We examine logarithmic connections with vanishing p-curvature on smooth
+curves by studying their kernels, describing them in terms of formal local
+decomposition. We then apply our results in the case of connections of rank 2
+on P^1, classifying such connections in terms of self-maps of P^1 with
+prescribed ramification.
+",2004-09-09T06:28:20Z,[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b37a70>],math.AG
+http://arxiv.org/abs/0804.3374v1,Coupled-Resonator Optical Near-Field Lithography,"  The problem of pattern formation in resonantly-enhanced near-field
+lithography by the use of dielectric or plasmonic planar resonators is
+investigated. Sub-diffraction-limited bright or dark spots can be produced by
+taking advantage of the rotational invariance of planar resonators. To increase
+the spatial bandwidth of the resonant enhancement, an array of coupled planar
+resonators can open up a band of Bloch resonances, analogous to
+coupled-resonator optical waveguides.
+",2008-04-21T19:12:47Z,"[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b56590>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b56710>]",physics.optics
+http://arxiv.org/abs/1109.1401v1,"Transverse Momentum Dependent Partonic Distribution and Fragmentation
+  Functions","  Our knowledge on the three-dimensional momentum structure of hadrons is
+encoded in the Transverse Momentum Dependent partonic distribution and
+fragmentation functions (TMDs). A brief and updated review of the TMDs and of
+the processes in which they might play a role is presented.
+",2011-09-07T09:46:03Z,[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b56d70>],hep-ph
+http://arxiv.org/abs/0803.0779v1,Ultimate Energy Densities for Electromagnetic Pulses,"  The ultimate electric and magnetic energy densities that can be attained by
+bandlimited electromagnetic pulses in free space are calculated using an ab
+initio quantized treatment, and the quantum states of electromagnetic fields
+that achieve the ultimate energy densities are derived. The ultimate energy
+densities also provide an experimentally accessible metric for the degree of
+localization of polychromatic photons.
+",2008-03-06T02:45:54Z,[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b44530>],quant-ph
+http://arxiv.org/abs/0807.2150v1,Wilf conjecture,"  Let S(n,k) be the Stirling number of the second kind. Wilf conjectured that
+the alternating sum of S(n,k) for k from 0 to n is not zero for all n>2. In
+this paper, we prove that Wilf conjecture is true except at most one number
+with the properties of weighted Motzkin number.
+",2008-07-14T12:50:12Z,[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b44c50>],math.CO
+http://arxiv.org/abs/1201.5860v1,"Fragmentation Functions in-Medium, Two Particle Correlations and Jets in
+  PHENIX at RHIC","  Latest results from the PHENIX experiment at RHIC on these topics will be
+presented. Results will be shown for Au+Au compared to p-p collisions as well
+as compared to results from fully reconstructed jets at LHC.
+",2012-01-27T18:34:48Z,[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b3b470>],nucl-ex
+http://arxiv.org/abs/1802.05611v1,Microfluidics for Chemical Synthesis: Flow Chemistry,"  Klavs F. Jensen is Warren K. Lewis Professor in Chemical Engineering and
+Materials Science and Engineering at the Massachusetts Institute of Technology.
+Here he describes the use of microfluidics for chemical synthesis, from the
+early demonstration examples to the current efforts with automated droplet
+microfluidic screening and optimization techniques.
+",2018-01-10T11:42:01Z,[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b3bbf0>],physics.flu-dyn
+http://arxiv.org/abs/hep-ex/9611010v1,"Semi-inclusive spin asymmetries in polarised deep inelastic electron
+  scattering","  In 1995, the HERMES experiment at DESY (Hamburg, Germany) has taken its first
+data, using the 27.5 GeV polarised HERA positron beam impinging on a
+longitudinally polarised internal $^3$He target. Preliminary results from the
+semi-inclusive physics program are presented.
+",1996-11-16T09:44:17Z,[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b522f0>],hep-ex
+http://arxiv.org/abs/1809.01645v1,"Indistinguishable Single-Photon Sources with Dissipative Emitter Coupled
+  to Cascaded Cavities","  Recently, Grange et al. [Phys. Rev. Lett. 114, 193601 (2015)] showed the
+possibility of single photon generation with high indistinguishability from a
+quantum emitter, despite strong pure dephasing, by `funneling' emission into a
+photonic cavity. Here, we show that cascaded two-cavity system can further
+improve the photon characteristics and greatly reduce the Q-factor requirement
+to levels achievable with present-day technology. Our approach leverages recent
+advances in nanocavities with ultrasmall mode volume and does not require
+ultrafast excitation of the emitter. These results were obtained by numerical
+and closed-form analytical models with strong emitter dephasing, representing
+room-temperature quantum emitters.
+",2018-09-05T17:49:05Z,"[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b52a70>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b52b90>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b52cb0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b52dd0>]",quant-ph
+http://arxiv.org/abs/1811.00526v2,"Extreme Broadband Transparent Optical Phase Change Materials for
+  High-Performance Nonvolatile Photonics","  Optical phase change materials (O-PCMs), a unique group of materials
+featuring drastic optical property contrast upon solid-state phase transition,
+have found widespread adoption in photonic switches and routers, reconfigurable
+meta-optics, reflective display, and optical neuromorphic computers. Current
+phase change materials, such as Ge-Sb-Te (GST), exhibit large contrast of both
+refractive index (delta n) and optical loss (delta k), simultaneously. The
+coupling of both optical properties fundamentally limits the function and
+performance of many potential applications. In this article, we introduce a new
+class of O-PCMs, Ge-Sb-Se-Te (GSST) which breaks this traditional coupling, as
+demonstrated with an optical figure of merit improvement of more than two
+orders of magnitude. The first-principle computationally optimized alloy,
+Ge2Sb2Se4Te1, combines broadband low optical loss (1-18.5 micron), large
+optical contrast (delta n = 2.0), and significantly improved glass forming
+ability, enabling an entirely new field of infrared and thermal photonic
+devices. We further leverage the material to demonstrate nonvolatile integrated
+optical switches with record low loss and large contrast ratio, as well as an
+electrically addressed, microsecond switched pixel level spatial light
+modulator, thereby validating its promise as a platform material for scalable
+nonvolatile photonics.
+",2018-11-01T17:49:30Z,"[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b486b0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b48830>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b48950>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b48a70>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b48b90>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b48d10>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b48e30>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b48f50>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b47110>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b47290>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b47410>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b47530>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b47650>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b47770>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b47950>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b47ad0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b47bf0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b47d70>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b47e90>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b47fb0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b4d110>]",physics.app-ph
+http://arxiv.org/abs/cond-mat/0212427v2,Hydrodynamical Approach to Vehicular Flow in the Urban Street Canyon,"  The vehicular flow in the urban street canyon is considered. The classical
+field description is used in the modelling of the vehicular movement and of
+gaseous mixture in generic urban street canyon. The dynamical variables include
+vehicular densities, velocities, and emissivities: of pollutants, heat and
+exhaust gases, as well as standard mixture components' variables: densities,
+velocities, temperature, pressures. The local balances' equations predict the
+dynamics of the complex system. The automatic control of the vehicular flow is
+attained by the sets of coordinated traffic lights. The automatic control is
+aimed at minimization of traffic ecological costs by the application of
+variational calculus (Lagrange's and Bolz's problems). The theoretical
+description is accompanied by numerical examples of computer fluid dynamics
+based on real traffic data.
+",2002-12-18T19:05:16Z,[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b4d950>],cond-mat.dis-nn
+http://arxiv.org/abs/0801.4549v1,Simplified measurement of the Bell parameter within quantum mechanics,"  We point out that, if one accepts the validity of quantum mechanics, the Bell
+parameter for the polarization state of two photons can be measured in a
+simpler way than by the standard procedure [Clauser, Horne, Shimony, and Holt,
+Phys. Rev. Lett. 23, 880 (1969)]. The proposed method requires only two
+measurements with parallel linear-polarizer settings for Alice and Bob at 0 and
+45 degrees, and yields a significantly smaller statistical error for a large
+Bell parameter.
+",2008-01-29T20:53:19Z,"[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b4df50>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b25110>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b25290>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b253b0>]",quant-ph
+http://arxiv.org/abs/math/9712213v1,Deformations of Coxeter hyperplane arrangements,"  We investigate several hyperplane arrangements that can be viewed as
+deformations of Coxeter arrangements. In particular, we prove a conjecture of
+Linial and Stanley that the number of regions of the arrangement x_i - x_j = 1,
+1 \leq i<j \leq n, is equal to the number of alternating trees on n+1 vertices.
+Remarkably, these numbers have several additional combinatorial interpretations
+in terms of binary trees, partially ordered sets, and tournaments. More
+generally, we give formulae for the number of regions and the Poincar'e
+polynomial of certain finite subarrangements of the affine Coxeter arrangement
+of type A_{n-1}. These formulae enable us to prove a ""Riemann hypothesis"" on
+the location of zeros of the Poincar'e polynomial. We also consider some
+generic deformations of Coxeter arrangements of type A_{n-1}.
+",1997-12-02T18:46:59Z,"[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b25a70>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b25bf0>]",math.CO
+http://arxiv.org/abs/1808.09804v2,"Microscopic theory of capillary pressure hysteresis based on pore-space
+  accessivity and radius-resolved saturation","  Continuum models of porous media use macroscopic parameters and state
+variables to capture essential features of pore-scale physics. We propose a
+macroscopic property ""accessivity"" ($\alpha$) to characterize the network
+connectivity of different sized pores in a porous medium, and macroscopic state
+descriptors ""radius-resolved saturations"" ($\psi_w(F),\psi_n(F)$) to
+characterize the distribution of fluid phases within. Small accessivity
+($\alpha\to0$) implies serial connections between different sized pores, while
+large accessivity ($\alpha\to1$) corresponds to more parallel arrangements, as
+the classical capillary bundle model implicitly assumes. Based on these
+concepts, we develop a statistical theory for quasistatic immiscible
+drainage-imbibition in arbitrary cycles, and arrive at simple algebraic
+formulae for updating $\psi_n(F)$ that naturally capture capillary pressure
+hysteresis, with $\alpha$ controlling the amount of hysteresis. These concepts
+may be used to interpret hysteretic data, upscale pore-scale observations, and
+formulate new constitutive laws by providing a simple conceptual framework for
+quantifying connectivity effects, and may have broader utility in continuum
+modeling of transport, reactions, and phase transformations in porous media.
+",2018-08-23T23:21:28Z,"[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b423b0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b424d0>]",cond-mat.soft
+http://arxiv.org/abs/2005.05998v1,Ultrasound-enhanced mass transfer during single-bubble diffusive growth,"  Ultrasound is known to enhance surface bubble growth and removal in catalytic
+and microfluidic applications, yet the contributions of rectified diffusion and
+microstreaming phenomena towards mass transfer remain unclear. We quantify the
+effect of ultrasound on the diffusive growth of a single spherical CO$_2$
+bubble growing on a substrate in supersaturated water. The time dependent
+bubble size, shape, oscillation amplitude and microstreaming flow field are
+resolved. We show and explain how ultrasound can enhance the diffusive growth
+of surface bubbles by up to two orders of magnitude during volumetric
+resonance. The proximity of the wall forces the bubble to oscillate
+non-spherically, thereby generating vigorous streaming during resonance that
+results in convection-dominated growth.
+",2020-05-12T18:26:15Z,"[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b42c50>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b42e30>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b42fb0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b4e110>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b4e230>]",physics.flu-dyn
+http://arxiv.org/abs/1202.5839v1,"Error analysis of free probability approximations to the density of
+  states of disordered systems","  Theoretical studies of localization, anomalous diffusion and ergodicity
+breaking require solving the electronic structure of disordered systems. We use
+free probability to approximate the ensemble- averaged density of states
+without exact diagonalization. We present an error analysis that quantifies the
+accuracy using a generalized moment expansion, allowing us to distinguish
+between different approximations. We identify an approximation that is accurate
+to the eighth moment across all noise strengths, and contrast this with the
+perturbation theory and isotropic entanglement theory.
+",2012-02-27T07:30:07Z,"[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b4ea10>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b4eb30>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b4ec50>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b4ed70>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b4ee90>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b4efb0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b4c170>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b4c290>]",cond-mat.dis-nn
+http://arxiv.org/abs/1408.6641v2,"Group theory for structural analysis and lattice vibrations in
+  phosphorene systems","  Group theory analysis for two-dimensional elemental systems related to
+phosphorene is presented, including (i) graphene, silicene, germanene and
+stanene, (ii) dependence on the number of layers and (iii) two stacking
+arrangements. Departing from the most symmetric $D_{6h}^{1}$ graphene space
+group, the structures are found to have a group-subgroup relation, and analysis
+of the irreducible representations of their lattice vibrations makes it
+possible to distinguish between the different allotropes. The analysis can be
+used to study the effect of strain, to understand structural phase transitions,
+to characterize the number of layers, crystallographic orientation and
+nonlinear phenomena.
+",2014-08-28T07:48:53Z,"[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b4cc50>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b4cdd0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b4cef0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b350b0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b351d0>]",cond-mat.mes-hall
+http://arxiv.org/abs/1703.00075v1,"Discrete Wavelet Transform Based Algorithm for Recognition of QRS
+  Complexes","  This paper proposes the application of Discrete Wavelet Transform (DWT) to
+detect the QRS (ECG is characterized by a recurrent wave sequence of P, QRS and
+T-wave) of an electrocardiogram (ECG) signal. Wavelet Transform provides
+localization in both time and frequency. In preprocessing stage, DWT is used to
+remove the baseline wander in the ECG signal. The performance of the algorithm
+of QRS detection is evaluated against the standard MIT BIH (Massachusetts
+Institute of Technology, Beth Israel Hospital) Arrhythmia database. The average
+QRS complexes detection rate of 98.1 % is achieved.
+",2017-02-28T22:12:00Z,"[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b35a10>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b35ad0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b35b90>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b35c50>]",cs.CV
+http://arxiv.org/abs/1309.1149v1,"MOSAIK: A hash-based algorithm for accurate next-generation sequencing
+  read mapping","  This paper presents an accurate short-read mapper for next-generation
+sequencing data which is widely used in the 1000 Genomes Project, and human
+clinical and other species genome studies.
+",2013-09-04T19:42:21Z,"[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b392f0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b39410>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b39590>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b396b0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b39830>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b39950>]",q-bio.GN
+http://arxiv.org/abs/0901.4817v2,"Quantum Imaging beyond the Diffraction Limit by Optical Centroid
+  Measurements","  I propose a quantum imaging method that can beat the Rayleigh-Abbe
+diffraction limit and achieve de Broglie resolution without requiring a
+multiphoton absorber as the detector. Using the same non-classical states of
+light as those for quantum lithography, the proposed method requires only
+intensity measurements, followed by image post-processing, to produce the same
+complex image patterns as those in quantum lithography. The method is expected
+to be experimentally realizable using current technology.
+",2009-01-30T02:15:54Z,[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b97110>],quant-ph
+http://arxiv.org/abs/1812.09146v1,"The Technology Transfer of the Italian Public Research System: the Case
+  of the National Research Council of Italy","  This paper deals with the technology transfer activities of the main public
+research institution in Italy, the Italian Research Council, CNR. A comparative
+analysis on patenting and licensing performances between CNR and the
+Massachusetts Institute of Technology, MIT has been carried out. Findings show
+that: research expenses being equal, CNR patents are 26% of MIT's; and, patents
+being equal, CNR licenses are also 26% of MIT's. This means that CNR impact on
+domestic competitiveness, in terms of patent licenses, is less than 7% of
+MIT's. Moreover, while 83% of CNR patents are never licensed to domestic
+industry, the Italian technology balance of payments shows a perennial deficit.
+The paper concludes with the identification of the possible causes that may
+explain such a gap.
+",2018-12-21T14:30:50Z,[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b979b0>],cs.DL
+http://arxiv.org/abs/0704.0191v1,Intricate Knots in Proteins: Function and Evolution,"  A number of recently discovered protein structures incorporate a rather
+unexpected structural feature: a knot in the polypeptide backbone. These knots
+are extremely rare, but their occurrence is likely connected to protein
+function in as yet unexplored fashion. Our analysis of the complete Protein
+Data Bank reveals several new knots which, along with previously discovered
+ones, can shed light on such connections. In particular, we identify the most
+complex knot discovered to date in human ubiquitin hydrolase, and suggest that
+its entangled topology protects it against unfolding and degradation by the
+proteasome. Knots in proteins are typically preserved across species and
+sometimes even across kingdoms. However, we also identify a knot which only
+appears in some transcarbamylases while being absent in homologous proteins of
+similar structure. The emergence of the knot is accompanied by a shift in the
+enzymatic function of the protein. We suggest that the simple insertion of a
+short DNA fragment into the gene may suffice to turn an unknotted into a
+knotted structure in this protein.
+",2007-04-02T13:40:19Z,"[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b9b1d0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b9b2f0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b9b470>]",physics.bio-ph
+http://arxiv.org/abs/math/0409266v1,Frobenius-unstable bundles and p-curvature,"  We use the theory of p-curvature of connections to analyze stable vector
+bundles of rank 2 on curves of genus 2 which pull back to unstable bundles
+under the Frobenius morphism. We take two approaches, first using explicit
+formulas for p-curvature to analyze low-characteristic cases, and then using
+degeneration techniques to obtain an answer for a general curve by degenerating
+to an irreducible rational nodal curve, and applying the results of
+math.AG/0409145 and math.AG/0407445. We also apply our explicit formulas to
+give a new description of the strata of curves of genus 2 of different p-rank.
+",2004-09-16T00:58:52Z,[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b9bc50>],math.AG
+http://arxiv.org/abs/cmp-lg/9511004v1,"An investigation into the correlation of cue phrases, unfilled pauses
+  and the structuring of spoken discourse","  Expectations about the correlation of cue phrases, the duration of unfilled
+pauses and the structuring of spoken discourse are framed in light of Grosz and
+Sidner's theory of discourse and are tested for a directions-giving dialogue.
+The results suggest that cue phrase and discourse structuring tasks may align,
+and show a correlation for pause length and some of the modifications that
+speakers can make to discourse structure.
+",1995-11-22T18:47:27Z,[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b5d410>],cmp-lg
+http://arxiv.org/abs/astro-ph/0307052v1,"Polarization of the Atmosphere as a Foreground for Cosmic Microwave
+  Background Polarization Experiments","  We quantify the level of polarization of the atmosphere due to Zeeman
+splitting of oxygen in the Earth's magnetic field and compare it to the level
+of polarization expected from the polarization of the cosmic microwave
+background radiation. The analysis focuses on the effect at mid-latitudes and
+at large angular scales. We find that from stratospheric balloon borne
+platforms and for observations near 100 GHz the atmospheric linear and circular
+polarized intensities is about 10^{-12} and 100 x 10^{-9} K, respectively,
+making the atmosphere a negligible source of foreground. From the ground the
+linear and circular polarized intensities are about 10^{-9} and 100 x 10^{-6}
+K, making the atmosphere a potential source of foreground for the CMB E (B)
+mode signal if there is even a 1% (0.01%) conversion of circular to linear
+polarization in the instrument.
+",2003-07-02T17:45:05Z,"[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b5dc50>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b5dd70>]",astro-ph
+http://arxiv.org/abs/cmp-lg/9506017v1,The Effect of Pitch Accenting on Pronoun Referent Resolution,"  By strictest interpretation, theories of both centering and intonational
+meaning fail to predict the existence of pitch accented pronominals. Yet they
+occur felicitously in spoken discourse. To explain this, I emphasize the dual
+functions served by pitch accents, as markers of both propositional
+(semantic/pragmatic) and attentional salience. This distinction underlies my
+proposals about the attentional consequences of pitch accents when applied to
+pronominals, in particular, that while most pitch accents may weaken or
+reinforce a cospecifier's status as the center of attention, a contrastively
+stressed pronominal may force a shift, even when contraindicated by textual
+features.
+",1995-06-18T22:41:57Z,[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b7d530>],cmp-lg
+http://arxiv.org/abs/dg-ga/9707023v1,Singular Reduction and Quantization,"  Consider a compact prequantizable symplectic manifold M on which a compact
+Lie group G acts in a Hamiltonian fashion. The ``quantization commutes with
+reduction'' theorem asserts that the G-invariant part of the equivariant index
+of M is equal to the Riemann-Roch number of the symplectic quotient of M,
+provided the quotient is nonsingular. We extend this result to singular
+symplectic quotients, using partial desingularizations of the symplectic
+quotient to define its Riemann-Roch number. By similar methods we also compute
+multiplicities for the equivariant index of the dual of a prequantum bundle,
+and furthermore show that the arithmetic genus of a Hamiltonian G-manifold is
+invariant under symplectic reduction.
+",1997-07-30T18:38:45Z,"[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b7dd70>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b7def0>]",dg-ga
+http://arxiv.org/abs/math/0407445v1,Self maps of P^1 with prescribed ramification in characteristic p,"  Using limit linear series and a result controlling degeneration from
+separable maps to inseparable maps, we give a formula for the number of
+self-maps of the projective line with ramification to order e_i at general
+points P_i, in the case that all e_i are less than the characteristic. Unlike
+the case of characteristic 0, the answer is not given by Schubert calculus, nor
+is the number of maps always finite for distinct P_i, even in the tamely
+ramified case. However, finiteness for general P_i, obtained by exploiting the
+relationship to branched covers, is a key part of the argument.
+",2004-07-26T19:40:47Z,[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b68650>],math.AG
+http://arxiv.org/abs/math/0407496v1,A limit linear series moduli scheme,"  We develop a new, more functorial construction for the basic theory of limit
+linear series, which provides a compactification of the Eisenbud-Harris theory,
+and shows promise for generalization to higher-dimensional varieties and
+higher-rank vector bundles. We also give a result on lifting linear series from
+characteristic p to characteristic 0. In an appendix, in order to obtain the
+necessary dimensional lower bounds on our limit linear series scheme we develop
+a theory of ""linked Grassmannians;"" these are schemes parametrizing sub-bundles
+of a sequence of vector bundles which map into one another under fixed maps of
+the ambient bundles.
+",2004-07-28T18:39:11Z,[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b68d10>],math.AG
+http://arxiv.org/abs/math/0410613v1,The generalized Verschiebung map for curves of genus 2,"  Let C be a smooth curve, and M_r(C) the coarse moduli space of vector bundles
+of rank r and trivial determinant on C. We examine the generalized Verschiebung
+map V_r: M_r(C^(p)) --> M_r(C) induced by pulling back under Frobenius. Our
+main result is a computation of the degree of V_2 for a general C of genus 2,
+in characteristic p>2. We also give several general background results on the
+Verschiebung in an appendix.
+",2004-10-29T04:32:45Z,[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b6d2f0>],math.AG
+http://arxiv.org/abs/physics/0106098v1,"Preferential Acceleration of Coherent Magnetic Structures and Bursty
+  Bulk Flows in Earth's Magnetotail","  Observations indicate that the magnetotail convection is turbulent and
+bi-modal, consisting of fast bursty bulk flows (BBF) and a nearly stagnant
+background. We demonstrate that this observed phenomenon may be understood in
+terms of the intermittent interactions, dynamic mergings and preferential
+accelerations of coherent magnetic structures under the influence of a
+background magnetic field geometry that is consistent with the development of
+an X-point mean-field structure.
+",2001-06-28T22:14:09Z,"[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b6d6b0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b6d530>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b6d350>]",physics.space-ph
+http://arxiv.org/abs/1210.7909v1,From manifolds to invariants of E_n-algebras,"  This thesis represents the first step in an investigation of an interesting
+class of manifold-theoretic invariants of $E_n$-algebras which generalize
+topological Hochschild homology. The main goal of this thesis is to give a
+definition of the invariants, and analyse their geometric framework. These
+invariants have appeared in the work of Paolo Salvatore and Jacob Lurie (who
+calls them topological chiral homology), where they are involved in a sort of
+non-abelian Poincar\'e duality.
+",2012-10-30T06:11:56Z,[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b8c6b0>],math.AT
+http://arxiv.org/abs/cond-mat/9604147v1,Is Heteropolymer Freezing Well Described by the Random Energy Model?,"  It is widely held that the Random Energy Model (REM) describes the freezing
+transition of a variety of types of heteropolymers. We demonstrate that the
+hallmark property of REM, statistical independence of the energies of states
+over disorder, is violated in different ways for models commonly employed in
+heteropolymer freezing studies. The implications for proteins are also
+discussed.
+",1996-04-23T16:16:05Z,"[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b8cd10>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b8ce30>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b8cf50>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b658f0>]",cond-mat
+http://arxiv.org/abs/cond-mat/9709343v1,Statistical Analysis of X-ray Speckle at the NSLS,"  We report a statistical analysis of the static speckle produced by
+illuminating a disordered aerogel sample by a nominally coherent x-ray beam at
+wiggler beamline X25 at the National Synchrotron Light Source. The results of
+the analysis allow us to determine that the coherence delivered to the X25
+hutch is within 35% of what is expected. The rate of coherent photons is
+approximately two times smaller than expected on the basis of the X25 wiggler
+source brilliance.
+",1997-09-30T17:06:47Z,"[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b657d0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b65950>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b65cb0>]",cond-mat.soft
+http://arxiv.org/abs/nlin/0501021v1,Effect of Noise on the Standard Mapping,"  The effect of a small amount of noise on the standard mapping is considered.
+Whenever the standard mapping possesses accelerator modes (where the action
+increases approximately linearly with time), the diffusion coefficient contains
+a term proportional to the reciprocal of the variance of the noise term. At
+large values of the stochasticity parameter, the accelerator modes exhibit a
+universal behavior. As a result the dependence of the diffusion coefficient on
+the stochasticity parameter also shows some universal behavior.
+",2005-01-10T16:36:29Z,"[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b93230>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b93350>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b934d0>]",nlin.CD
+http://arxiv.org/abs/nlin/0609064v2,Examples of Synchronization in Discrete Chaotic Systems,"  This paper presents an application of partial contraction analysis to the
+study of global synchronization in discrete chaotic systems. Explicit
+sufficient conditions on the coupling strength of networks of discrete
+oscillators are derived. Numerical examples and applications to simple systems
+are presented. Previous researches have shown numerically that the systems
+under study, when arranged in a network, exhibits rich and complex patterns
+that can dynamically change in response to variations in the environment. We
+show how this ``adaptation'' process strongly depends on the coupling
+characteristics of the network. Other potential applications of synchronized
+chaotic oscillators are discussed.
+",2006-09-27T12:54:34Z,"[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b93e30>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b93f50>]",nlin.CD
+http://arxiv.org/abs/nucl-ex/0605012v1,Scaling Features of Selected Observables at RHIC,"  We discuss several observables measured by PHOBOS that show common scaling
+features in Cu+Cu and Au+Au collisions at RHIC energies. In particular, we
+examine the centrality and energy dependence of the charged particle
+multiplicity, as well as the centrality dependence of the elliptic flow at
+mid-rapidity. The discrepancy between Cu+Cu and Au+Au of the final state
+azimuthal asymmetry (elliptic flow), relative to the initial state geometry of
+the collision, can be resolved by accounting for fluctuations in the
+description of the initial geometry.
+",2006-05-12T16:41:50Z,[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b64d10>],nucl-ex
+http://arxiv.org/abs/0708.3189v1,Beauty in the Standard Model and Beyond,"  The study of CP violation in the B system allows us to perform quantitative
+tests of the CP symmetry in the Standard Model. Many precise measurements of
+the sides and angles of the Unitarity Triangle used to test the theory are made
+possible by the abundant experimental data accumulated at the B factories and
+the Tevatron. I review the Standard Model description of CP violation and the
+key measurements which allow us to use CP violation studies as a probe for New
+Physics.
+",2007-08-23T15:35:29Z,[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b64350>],hep-ex
+http://arxiv.org/abs/1207.3462v3,On the Number of Fixed-Length Semiorders,"  A semiorder is a partially ordered set $P$ with two certain forbidden induced
+subposets. This paper establishes a bijection between $n$-element semiorders of
+length $H$ and $(n+1)$-node ordered trees of height $H+1$. This bijection
+preserves not only the number of elements, but also much additional structure.
+Based on this correspondence, we calculate the generating functions and
+explicit formulas for the numbers of labeled and unlabeled $n$-element
+semiorders of length $H$. We also prove several concise recurrence relations
+and provide combinatorial proofs for special cases of the explicit formulas.
+",2012-07-14T21:15:15Z,[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b92cb0>],math.CO
+http://arxiv.org/abs/1806.01321v1,A dedicated codec for compression of Gravitational Waves Sound,"  A dedicated codec for compression of gravitational waves sound with high
+quality recovery is proposed. The performance is tested on the available set of
+gravitational sound signals that has been theoretically generated at the
+Massachusetts Institute of Technology (MIT). The approach is based on a model
+for data reduction rendering high quality approximation of the signals. The
+reduction of dimensionality is achieved by selecting elementary components from
+a redundant set called a dictionary. Comparisons with the compression standard
+MP3 demonstrate the merit of the dedicated technique for compressing this type
+of sound.
+",2018-06-04T18:46:26Z,[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b92410>],eess.SP
+http://arxiv.org/abs/1803.01267v2,Laplacians on spheres,"  Spheres can be written as homogeneous spaces $G/H$ for compact Lie groups in
+a small number of ways. In each case, the decomposition of $L^2(G/H)$ into
+irreducible representations of $G$ contains interesting information. We recall
+these decompositions, and see what they can reveal about the analogous problem
+for noncompact real forms of $G$ and $H$.
+",2018-03-03T23:58:03Z,"[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b7ad10>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b7abf0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b7aa70>]",math.RT
+http://arxiv.org/abs/2008.03650v1,Testing Determinantal Point Processes,"  Determinantal point processes (DPPs) are popular probabilistic models of
+diversity. In this paper, we investigate DPPs from a new perspective: property
+testing of distributions. Given sample access to an unknown distribution $q$
+over the subsets of a ground set, we aim to distinguish whether $q$ is a DPP
+distribution, or $\epsilon$-far from all DPP distributions in
+$\ell_1$-distance. In this work, we propose the first algorithm for testing
+DPPs. Furthermore, we establish a matching lower bound on the sample complexity
+of DPP testing. This lower bound also extends to showing a new hardness result
+for the problem of testing the more general class of log-submodular
+distributions.
+",2020-08-09T04:45:16Z,"[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b7a1d0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b91050>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b911d0>]",cs.LG
+http://arxiv.org/abs/2009.05913v1,Spin-polarized fermions with $p$-wave interactions,"  We study quantum degenerate Fermi gases of ${^6}$Li atoms at high densities
+($10^{15}$ cm$^{-3}$) and observe elastic and inelastic $p$-wave collisions far
+away from any Feshbach resonance. $P$-wave evaporation reaches temperatures of
+$T/T_F=0.42$ partially limited by the slow transfer of energy from high to low
+velocities through $p$-wave collisions. Via cross-dimensional thermalization,
+the $p$-wave background scattering volume is determined to be $\lvert V_p
+\rvert =(39^{+1.3}_{-1.6}a_0)^3$. $P$-wave dipolar relaxation creates a
+metastable mixture of the lowest and highest hyperfine states.
+",2020-09-13T04:05:36Z,"[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b91950>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b91a70>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b91b90>]",cond-mat.quant-gas
+http://arxiv.org/abs/1110.5090v1,Muon Capture on the Proton,"  The MuCap experiment measures the singlet rate Lambda_S of muon capture on
+the proton. A negative muon beam is stopped in a time projection chamber filled
+with ultra-pure hydrogen gas at 10 bar and room temperature. In combination
+with the surrounding decay electron detectors, the lifetime of muons in
+hydrogen can be measured to determine LS to a final precision of 1%. The
+capture rate is then used to derive the nucleon's pseudoscalar form factor gP.
+Our first-stage result, gP= 7.3\pm1., will soon be updated with the final
+analysis of the full statistics reducing the error by a factor of ~2.
+",2011-10-23T21:45:42Z,[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b75290>],nucl-ex
+http://arxiv.org/abs/2007.07944v1,"Multi-level Electro-thermal Switching of Optical Phase-Change Materials
+  Using Graphene","  Reconfigurable photonic systems featuring minimal power consumption are
+crucial for integrated optical devices in real-world technology. Current active
+devices available in foundries, however, use volatile methods to modulate
+light, requiring a constant supply of power and significant form factors.
+Essential aspects to overcoming these issues are the development of nonvolatile
+optical reconfiguration techniques which are compatible with on-chip
+integration with different photonic platforms and do not disrupt their optical
+performances. In this paper, a solution is demonstrated using an optoelectronic
+framework for nonvolatile tunable photonics that employs undoped-graphene
+microheaters to thermally and reversibly switch the optical phase-change
+material Ge$_2$Sb$_2$Se$_4$Te$_1$ (GSST). An in-situ Raman spectroscopy method
+is utilized to demonstrate, in real-time, reversible switching between four
+different levels of crystallinity. Moreover, a 3D computational model is
+developed to precisely interpret the switching characteristics, and to quantify
+the impact of current saturation on power dissipation, thermal diffusion, and
+switching speed. This model is used to inform the design of nonvolatile active
+photonic devices; namely, broadband Si$_3$N$_4$ integrated photonic circuits
+with small form-factor modulators and reconfigurable metasurfaces displaying
+2$\pi$ phase coverage through neural-network-designed GSST meta-atoms. This
+framework will enable scalable, low-loss nonvolatile applications across a
+diverse range of photonics platforms.
+",2020-07-15T18:40:53Z,"[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b75ad0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b75cb0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b75e30>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b75fb0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b69170>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b692f0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b69410>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b69530>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b69650>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b69770>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b69890>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b699b0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b69ad0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b69bf0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b69d70>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b69ef0>]",physics.app-ph
+http://arxiv.org/abs/1805.05832v1,"Charge-carrier lifetime measurements in early-stage photovoltaic
+  materials: intuition, uncertainties, and opportunities","  Measurements of charge-carrier lifetime in many early-stage thin-film
+photovoltaic materials can be arduous due to the prevalence of defects and
+limited information about material properties. In this perspective, we give a
+brief overview of typical techniques for measuring lifetimes and discuss the
+intuition involved in estimating lifetimes from such techniques, focusing on
+time-resolved photoluminescence as an example. We then delve into the
+underlying assumptions and uncertainties involved in analyzing lifetime
+measurements. Finally, we outline opportunities for improving accuracy of
+lifetime measurements by utilizing two emerging techniques to decouple
+different recombination mechanisms: two-photon spectroscopy, which we
+demonstrate on BiI3 thin films, and temperature- and injection-dependent
+current-voltage measurements.
+",2018-05-15T15:05:59Z,"[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b7b650>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b7b770>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b7b890>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f46b7b9b0>]",cond-mat.mtrl-sci
+http://arxiv.org/abs/comp-gas/9411001v1,Renormalization of Lattice Gas Transport Coefficients,"  A method is described for calculating corrections to the
+Boltzmann/Chapman-Enskog analysis of lattice gases due to the buildup of
+correlations. It is shown that renormalized transport coefficients can be
+calculated perturbatively by summing terms in an infinite series. A
+diagrammatic notation for the terms in this series is given, in analogy with
+the Feynman diagrams of quantum field theory. This theory is applied to an
+example lattice gas and shown to correctly predict experimental deviation from
+the Boltzmann prediction.
+",1994-12-01T19:16:45Z,"[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44da1050>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44da1170>]",comp-gas
+http://arxiv.org/abs/hep-ex/0602009v1,"eRHIC - A precision electron-proton/ion collider facility at Brookhaven
+  National Laboratory","  An electron-proton/ion collider facility (eRHIC) is under consideration at
+Brookhaven National Laboratory (BNL). Such a new facility will require the
+design and construction of a new optimized detector profiting from the
+experience gained from the H1 and ZEUS detectors operated at the HERA collider
+at DESY. The details of the design will be closely coupled to the design of the
+interaction region, and thus to the machine development work in general. An
+overview of the accelerator and detector design concepts will be provided.
+",2006-02-02T23:09:59Z,[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44da1890>],hep-ex
+http://arxiv.org/abs/1008.0821v4,Randomness extraction and asymptotic Hamming distance,"  We obtain a non-implication result in the Medvedev degrees by studying
+sequences that are close to Martin-L\""of random in asymptotic Hamming distance.
+Our result is that the class of stochastically bi-immune sets is not Medvedev
+reducible to the class of sets having complex packing dimension 1.
+",2010-08-04T16:56:36Z,"[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44d9c0b0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44d9c230>]",math.LO
+http://arxiv.org/abs/1504.03778v1,End-to-end verifiability,"  This pamphlet describes end-to-end election verifiability (E2E-V) for a
+nontechnical audience: election officials, public policymakers, and anyone else
+interested in secure, transparent, evidence-based electronic elections.
+  This work is part of the Overseas Vote Foundation's End-to-End Verifiable
+Internet Voting: Specification and Feasibility Assessment Study (E2E VIV
+Project), funded by the Democracy Fund.
+",2015-04-15T03:52:45Z,"[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44d9cb90>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44d9ccb0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44d9ce30>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44d9cf50>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44d86110>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44d86230>]",cs.CR
+http://arxiv.org/abs/1809.09234v3,Percolative scale-free behavior in the boiling crisis,"  We present the first experimental observations of scale-free behavior in the
+bubble footprint distribution during the boiling crisis of water, in pool and
+flow boiling conditions. We formulate a continuum percolation model that
+elucidates how the scale-free behavior emerges from the near-wall stochastic
+interaction of bubbles and provides a criterion to predict the boiling crisis.
+It also offers useful insights on how to engineer surfaces that enhance the
+critical heat flux limit.
+",2018-09-24T21:59:18Z,"[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44d86830>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44d86950>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44d86a70>]",physics.flu-dyn
+http://arxiv.org/abs/1908.00146v1,The Physics Behind the CosmicWatch Desktop Muon Detectors,"  The CosmicWatch Desktop Muon Detector is a Massachusetts Institute of
+Technology (MIT) and Polish National Centre for Nuclear Research (NCBJ) based
+undergraduate-level physics project that incorporates various aspects of
+electronics-shop technical development. The detector was designed to be
+low-power and extremely portable, which opens up a wide range of physics for
+students to explore. This document describes the physics behind the Desktop
+Muon Detectors and explores possible measurements that can be made with the
+detectors. In particular, we explore various physical phenomena associated with
+the geomagnetic field, atmospheric conditions, cosmic ray shower composition,
+attenuation of particles in matter, radioactivity, and statistical properties
+of Poisson processes.
+",2019-07-31T23:46:21Z,[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44d792f0>],physics.ins-det
+http://arxiv.org/abs/cond-mat/9910061v1,Imaging of Low Compressibility Strips in the Quantum Hall Liquid,"  Using Subsurface Charge Accumulation scanning microscopy we image strips of
+low compressibility corresponding to several integer Quantum Hall filling
+factors. We study in detail the strips at Landau level filling factors $\nu =$
+2 and 4. The observed strips appear significantly wider than predicted by
+theory. We present a model accounting for the discrepancy by considering a
+disorder-induced nonzero density of states in the cyclotron gap.
+",1999-10-05T17:18:59Z,"[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44d799b0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44d79b30>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44d79cb0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44d79e90>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44d8f050>]",cond-mat.mes-hall
+http://arxiv.org/abs/hep-th/9707199v1,"Abelian and Non-Abelian Induced Parity Breaking Terms at Finite
+  Temperature","  We compute the exact canonically induced parity breaking part of the
+effective action for 2+1 massive fermions in particular Abelian and non Abelian
+gauge field backgrounds. The method of computation resorts to the chiral
+anomaly of the dimensionally reduced theory.
+",1997-07-23T19:24:02Z,"[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44d8f8f0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44d8fa70>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44d8fcb0>]",hep-th
+http://arxiv.org/abs/physics/0310131v1,Hybrid atomistic-continuum methods for multiscale hydrodynamics,"  We discuss hybrid atomistic-continuum methods for multiscale hydrodynamic
+applications. Both dense fluid and dilute gas formulations are considered. The
+choice of coupling method and its relation to the fluid physics is discussed.
+The differences in hybrid methods resulting from underlying compressible and
+incompressible continuum formulations as well as the importance of timescale
+decoupling are highlighted. We also discuss recently developed compressible and
+incompressible hybrid methods for dilute gases. The incompressible framework is
+based on the Schwarz alternating method whereas the compressible method is a
+multi-species, fully adaptive mesh and algorithm refinement approach which
+introduces the direct simulation Monte Carlo at the finest level of mesh
+refinement.
+",2003-10-26T21:55:53Z,"[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44d9a530>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44d9a650>]",physics.comp-ph
+http://arxiv.org/abs/quant-ph/0003034v2,Resonant cancellation of off-resonant effects in a multilevel qubit,"  Off-resonant effects are a significant source of error in quantum
+computation. This paper presents a group theoretic proof that off-resonant
+transitions to the higher levels of a multilevel qubit can be completely
+prevented in principle. This result can be generalized to prevent unwanted
+transitions due to qubit-qubit interactions. A simple scheme exploiting dynamic
+pulse control techniques is presented that can cancel transitions to higher
+states to arbitrary accuracy.
+",2000-03-09T18:27:17Z,"[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44d9ad10>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44d9ae90>]",quant-ph
+http://arxiv.org/abs/0802.0516v2,"Fundamental Quantum Limit to Multiphoton Absorption Rate for
+  Monochromatic Light","  The local multiphoton absorption rate for an arbitrary quantum state of
+monochromatic light, taking into account the photon number, momentum, and
+polarization degrees of freedom, is shown to have an upper bound that can be
+reached by coherent fields. This surprising result rules out any quantum
+enhancement of the multiphoton absorption rate by momentum entanglement.
+",2008-02-04T21:43:43Z,[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44d90710>],quant-ph
+http://arxiv.org/abs/1109.0271v1,Non-perturbative Jet Quenching from Geometric Data,"  This contribution discusses the geometric tomography by highly energetic jets
+penetrating the hot QCD matter in heavy ion collisions from RHIC to LHC
+energies. In particular the geometric data on the azimuthal anisotropy of high
+$p_t$ hadrons discriminate different models and strongly hint at energy loss
+mechanism beyond those based on perturbation theory. Taking together the RHIC
+and LHC data, the comparison with models is in favor of the model with strong
+enhancement of jet quenching in near-$T_c$ matter.
+",2011-09-01T19:52:41Z,[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44d90f50>],nucl-th
+http://arxiv.org/abs/1507.00702v1,"Centralized and Distributed Newton Methods for Network Optimization and
+  Extensions","  We consider Newton methods for common types of single commodity and
+multi-commodity network flow problems. Despite the potentially very large
+dimension of the problem, they can be implemented using the conjugate gradient
+method and low-dimensional network operations, as shown nearly thirty years
+ago. We revisit these methods, compare them to more recent proposals, and
+describe how they can be implemented in a distributed computing system. We also
+discuss generalizations, including the treatment of arc gains, linear side
+constraints, and related special structures.
+",2015-07-02T19:06:47Z,[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44d6e7d0>],cs.NA
+http://arxiv.org/abs/1407.1226v2,"Group Theory analysis of phonons in two-dimensional Transition Metal
+  Dichalcogenides","  Transition metal dichalcogenides (TMDCs) have emerged as a new two
+dimensional materials field since the monolayer and few-layer limits show
+different properties when compared to each other and to their respective bulk
+materials. For example, in some cases when the bulk material is exfoliated down
+to a monolayer, an indirect-to-direct band gap in the visible range is
+observed. The number of layers $N$ ($N$ even or odd) drives changes in space
+group symmetry that are reflected in the optical properties. The understanding
+of the space group symmetry as a function of the number of layers is therefore
+important for the correct interpretation of the experimental data. Here we
+present a thorough group theory study of the symmetry aspects relevant to
+optical and spectroscopic analysis, for the most common polytypes of TMDCs,
+i.e. $2Ha$, $2Hc$ and $1T$, as a function of the number of layers. Real space
+symmetries, the group of the wave vectors, the relevance of inversion symmetry,
+irreducible representations of the vibrational modes, optical selection rules
+and Raman tensors are discussed.
+",2014-07-03T18:46:06Z,"[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44d6ee30>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44d6efb0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44d7a110>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44d7a290>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44d7a3b0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44d7a530>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44d7a6b0>]",cond-mat.mtrl-sci
+http://arxiv.org/abs/hep-th/9705124v2,Induced Parity Breaking Term at Finite Temperature,"  We compute the exact induced parity-breaking part of the effective action for
+2+1 massive fermions in $QED_3$ at finite temperature by calculating the
+fermion determinant in a particular background. The result confirms that gauge
+invariance of the effective action is respected even when large gauge
+transformations are considered.
+",1997-05-16T22:30:56Z,"[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44d7ae90>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44d7afb0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44d78890>]",hep-th
+http://arxiv.org/abs/1110.5932v1,Fluctuations and Higher Moments of Conserved Charges from the Lattice,"  We present results for the lowest-order non-vanishing quark number
+susceptibilities. These were calculated using an improved action viz. the HISQ
+action, which controls taste violations that are responsible for distorting the
+light meson spectrum. Our calculations, with a pion mass of 160 MeV, are also
+much closer to the physical limit than previous studies. We find a broad
+crossover from the hadronic to the quark regimes, although interactions remain
+significant even at the highest temperatures studied. Our results are also in
+good agreement with Hadron Resonance Gas models below the crossover
+temperature.
+",2011-10-26T21:22:07Z,[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44d78650>],hep-lat
+http://arxiv.org/abs/1710.01437v1,Duality of Graphical Models and Tensor Networks,"  In this article we show the duality between tensor networks and undirected
+graphical models with discrete variables. We study tensor networks on
+hypergraphs, which we call tensor hypernetworks. We show that the tensor
+hypernetwork on a hypergraph exactly corresponds to the graphical model given
+by the dual hypergraph. We translate various notions under duality. For
+example, marginalization in a graphical model is dual to contraction in the
+tensor network. Algorithms also translate under duality. We show that belief
+propagation corresponds to a known algorithm for tensor network contraction.
+This article is a reminder that the research areas of graphical models and
+tensor networks can benefit from interaction.
+",2017-10-04T01:55:05Z,"[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44da0350>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44da0410>]",math.ST
+http://arxiv.org/abs/1508.02699v3,A Fast and Accurate Universal Kepler Solver without Stumpff Series,"  We derive and present a fast and accurate solution of the initial value
+problem for Keplerian motion in universal variables that does not use the
+Stumpff series. We find that it performs better than methods based on the
+Stumpff series.
+",2015-08-11T19:23:37Z,"[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44da0b30>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44da0cb0>]",astro-ph.IM
+http://arxiv.org/abs/2002.01584v1,ML4H Abstract Track 2019,"  A collection of the accepted abstracts for the Machine Learning for Health
+(ML4H) workshop at NeurIPS 2019. This index is not complete, as some accepted
+abstracts chose to opt-out of inclusion.
+",2020-02-05T00:18:01Z,"[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44d93650>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44d937d0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44d939b0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44d93b90>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44d93d10>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44d93e30>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44d93f50>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44da90b0>]",cs.LG
+http://arxiv.org/abs/hep-th/9510240v1,Non-Trivial Directions for Scalar Fields,"  We study the eigenvectors of the renormalization-group matrix for scalar
+fields at the Gaussian fixed point, and find that that there exist ``relevant''
+directions in parameter space. They correspond to theories with exponential
+potentials that are nontrivial and asymptotically free. All other potentials,
+including polynomial potentials, are ``irrelevant,'' and lead to trivial
+theories. Away from the Gaussian fixed point, renormalization does not induce
+derivative couplings, but it generates non-local interactions.
+",1995-10-31T18:24:40Z,"[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44da9830>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44da99b0>]",hep-th
+http://arxiv.org/abs/hep-th/0505031v1,Taming the Tachyon in Cubic String Field Theory,"  We give evidence based on level-truncation computations that the rolling
+tachyon in cubic open string field theory (CSFT) has a well-defined but wildly
+oscillatory time-dependent solution which goes as $e^t$ for $t \to -\infty$. We
+show that a field redefinition taking the CSFT effective tachyon action to the
+analogous boundary string field theory (BSFT) action takes the oscillatory CSFT
+solution to the pure exponential solution $e^t$ of the BSFT action.
+",2005-05-04T03:08:59Z,"[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44d85290>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44d85350>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44d85410>]",hep-th
+http://arxiv.org/abs/astro-ph/9501031v1,The Mass Distribution of the Lens Galaxy in MG1131+0456,"  We present the results of modeling 5, 8 and 15 GHz maps of the gravitational
+lens MG1131+0456 using the LensClean algorithm. Two models for the mass
+distribution in the lens were fit: a de Vaucouleurs model and a model with the
+two-dimensional potential phi = b^{2-alpha}(r^2+s^2)^{alpha/2}/2alpha, both in
+an external shear field. The best fit de Vaucouleurs model has an effective
+radius of R_e = 0.83+-0.13 arcseconds, larger than that measured at optical
+wavelengths. The best fit ``alpha model'' has alpha=0.6+-0.2 and a core radius
+of s = 0.19 +- 0.07 arcseconds. An isothermal model (alpha=1) is inconsistent
+with the data. The best alpha model fits the 8 GHz map significantly better
+than the best de Vaucouleurs model. Although it is difficult to distinguish
+visually the original image and the reconstructions, none of the models is
+statistically consistent with the data. We believe the primary problem is that
+an external shear is an inadequate model for the angular structure of the lens
+galaxy. The finite core radius in the models is required by the structure of
+the extended ring, so we confirm that the central component in the 8 GHz map is
+a central, lensed image of the source rather than the lens galaxy. The model
+lens positions, the position angle of the shear, and the mass interior to the
+ring are determined very precisely by the lens models. The time delay between
+the compact components is predicted with an uncertainty we estimate to be at
+most +- 9%; the formal uncertainty is +- 4%.
+",1995-01-10T15:00:56Z,"[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44d85c50>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44d85dd0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44d85ef0>]",astro-ph
+http://arxiv.org/abs/2009.03413v2,Precision measurements of A=3 nuclei in Hall B,"  We propose a high-statistics measurement of few body nuclear structure and
+short range correlations in quasi-elastic scattering at 6.6 GeV from $^2$H,
+$^3$He and $^3$H targets in Hall B with the CLAS12 detector.
+  We will measure absolute cross sections for $(e,e'p)$ and $(e,e'pN)$
+quasi-elastic reaction channels up to a missing momentum $p_{miss} \approx 1$
+GeV/c over a wide range of $Q^2$ and $x_B$ and construct the isoscalar sum of
+$^3$H and $^3$He. We will compare $(e,e'p)$ cross sections to nuclear theory
+predictions using a wide variety of techniques and $NN$ interactions in order
+to constrain the $NN$ interaction at short distances. We will measure
+$(e,e'pN)$ quasi-elastic reaction cross sections and $(e,e'pN)/(e,e'p)$ ratios
+to understand short range correlated (SRC) $NN$ pairs in the simplest
+non-trivial system. $^3$H and $^3$He, being mirror nuclei, exploit the maximum
+available isospin asymmetry. They are light enough that their ground states are
+readily calculable, but they already exhibit complex nuclear behavior,
+including $NN$ SRCs. We will also measure $^2$H$(e,e'p)$ in order to help
+theorists constrain non-quasielastic reaction mechanisms in order to better
+calculate reactions on $A=3$ nuclei. Measuring all three few body nuclei
+together is critical, in order to understand and minimize different reaction
+effects, such as single charge exchange final state interactions, in order to
+test ground-state nuclear models.
+  We will also measure the ratio of inclusive $(e,e')$ quasi-elastic cross
+sections (integrated over $x_B$) from $^3$He and $^3$H in order to extract the
+neutron magnetic form factor $G_M^n$ at small and moderate values of $Q^2$. We
+will measure this at both 6.6 GeV and 2.2 GeV.
+",2020-09-07T20:44:35Z,"[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e24830>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e249b0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e24ad0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e24c50>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e24d70>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e24e90>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e24fb0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e08110>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e08230>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e08350>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e08470>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e08590>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e086b0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e087d0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e088f0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e08a10>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e08b30>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e08c50>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e08d70>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e08e90>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e08fb0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44df8110>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44df8290>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44df83b0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44df84d0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44df85f0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44df8710>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44df8830>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44df8950>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44df8a70>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44df8b90>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44df8cb0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44df8dd0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44df8ef0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e2ad10>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e2aad0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e2afb0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e2aef0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e2acb0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e2ab90>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e2a110>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e2a8f0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e2a7d0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e2a6b0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e2a590>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e2a3b0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e2a290>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e2a050>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e21110>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e21290>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e213b0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e214d0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e215f0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e21770>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e21890>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e219b0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e21ad0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e21bf0>]",nucl-ex
+http://arxiv.org/abs/1712.05737v1,Acceleration Profiles and Processing Methods for Parabolic Flight,"  Parabolic flights provide cost-effective, time-limited access to ""weightless""
+or reduced gravity conditions experienced in space or on planetary surfaces,
+e.g. the Moon or Mars. These flights facilitate fundamental research - from
+materials science to space biology - and testing/validation activities that
+support and complement infrequent and costly access to space. While parabolic
+flights have been conducted for decades, reference acceleration profiles and
+processing methods are not widely available - yet are critical for assessing
+the results of these activities. Here we present a method for collecting,
+analyzing, and classifying the altered gravity environments experienced during
+a parabolic flight. We validated this method using a commercially available
+accelerometer during a Boeing 727-200F flight with $20$ parabolas. All data and
+analysis code are freely available. Our solution can be easily integrated with
+a variety of experimental designs, does not depend upon accelerometer
+orientation, and allows for unsupervised and repeatable classification of all
+phases of flight, providing a consistent and open-source approach to
+quantifying gravito-intertial accelerations (GIA), or $g$ levels. As academic,
+governmental, and commercial use of space increases, data availability and
+validated processing methods will enable better planning, execution, and
+analysis of parabolic flight experiments, and thus, facilitate future space
+activities.
+",2017-12-15T16:32:05Z,"[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e1a230>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e1a3b0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e1a4d0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e1a5f0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e1a710>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e1a830>]",physics.pop-ph
+http://arxiv.org/abs/2010.15172v1,"Effect of two parallel intruders on net work during granular
+  penetrations","  The impact of single passive intruders into granular particles has been
+studied in detail. However, the impact force produced by multiple intruders
+separated at a distance from one another, and hence the effect of their
+presence in close proximity to one another, is largely unexplored. Here, we use
+numerical simulations and laboratory experiments to study the force response of
+two parallel rods intruding vertically into granular media while varying the
+gap spacing between them. We also explored the effect of variations in
+friction, intruder size, and particle size on the force response. The net work
+($W$) of the two rods over the depth of intrusion was measured, and the
+instantaneous velocities of particles over the duration of intrusion were
+calculated by simulations. We found that the work done by the intruders changes
+with distance between them. We observed a peak in $W$ at a gap spacing of
+$\sim$3 particle diameters, which was up to 25% greater than $W$ at large
+separation (\textgreater 11 particle diameters), beyond which the net work
+plateaued. This peak was likely due to less particle flow between intruders as
+we found a larger number of strong forces---identified as force chains---in the
+particle domain at gaps surrounding the peak force. Although higher friction
+caused greater force generation during intrusion, the gap spacing between the
+intruders at which the peak work was generated remained unchanged. Larger
+intruder sizes resulted in greater net work with the peak in $W$ occurring at
+slightly larger intruder separations. Taken together, our results show that
+peak work done by two parallel intruders remained within a narrow range,
+remaining robust to most other tested parameters.
+",2020-10-28T18:30:23Z,"[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e1aef0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44df30b0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44df3230>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44df33b0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44df34d0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44df3650>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44df3770>]",cond-mat.soft
+http://arxiv.org/abs/physics/0608290v1,eRHIC - Accelerator and detector design studies,"  An electron-proton/ion collider facility (eRHIC) is under consideration at
+Brookhaven National Laboratory (BNL). An overview of the accelerator and
+detector design concepts will be provided.
+",2006-08-30T02:09:11Z,[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44df3ef0>],physics.acc-ph
+http://arxiv.org/abs/2005.12767v1,Space VLBI 2020: Science and Technology Futures Conference Summary,"  The ""Space VLBI 2020: Science and Technology Futures"" meeting was the second
+in The Future of High-Resolution Radio Interferometry in Space series. The
+first meeting (2018 September 5--6; Noordwijk, the Netherlands) focused on the
+full range of science applications possible for very long baseline
+interferometry (VLBI) with space-based antennas. Accordingly, the observing
+frequencies (wavelengths) considered ranged from below 1~MHz (> 300 m) to above
+300~GHz (< 1 mm). For this second meeting, the focus was narrowed to mission
+concepts and the supporting technologies to enable the highest angular
+resolution observations at frequencies of 30~GHz and higher (< 1 cm).
+  This narrowing of focus was driven by both scientific and technical
+considerations. First, results from the RadioAstron mission and the Event
+Horizon Telescope (EHT) have generated considerable excitement for studying the
+inner portions of black hole (BH) accretion disks and jets and testing elements
+of the General Theory of Relativity (GR). Second, the technologies and
+requirements involved in space-based VLBI differ considerably between 100~MHz
+and 100~GHz; a related consideration is that there are a number of existing
+instruments or mission concepts for frequencies of approximately 100~MHz and
+below, while it has been some time since attention has been devoted to space
+VLBI at frequencies above 10~GHz.
+  This conference summary attempts to capture elements of presentations and
+discussions that occurred.
+",2020-05-20T21:28:42Z,"[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e045f0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e04710>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e04890>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e04a10>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e04b90>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e04cb0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e04dd0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e04ef0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44dfb8f0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44dfb5f0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44dfb530>]",astro-ph.IM
+http://arxiv.org/abs/1512.03533v1,A Conversation with Nan Laird,"  Nan McKenzie Laird is the Harvey V. Fineberg Professor of Biostatistics at
+the Harvard T. H. Chan School of Public Health. She has made fundamental
+contributions to statistical methods for longitudinal data analysis, missing
+data and meta-analysis. In addition, she is widely known for her work in
+statistical genetics and in statistical methods for psychiatric epidemiology.
+Her 1977 paper with Dempster and Rubin on the EM algorithm is among the top 100
+most highly cited papers in science [Nature 524 (2014) 550-553]. Her applied
+work on medical practice errors is widely cited among the medical malpractice
+community. Nan was born in Gainesville, Florida, in 1943. Shortly thereafter,
+her parents Angus McKenzie Laird and Myra Adelia Doyle, moved to Tallahassee,
+Florida, with Nan and her sister Victoria Mell. Nan started college at Rice
+University in 1961, but then transferred to the University of Georgia where she
+received a B.S. in Statistics in 1969 and was elected to Phi Beta Kappa. After
+graduation Nan worked at the Massachusetts Institute of Technology Draper
+Laboratories where she worked on Kalman filtering for the Apollo Man to the
+Moon Program. She enrolled in the Statistics Department at Harvard University
+in 1971 and received her Ph.D. in 1975. She joined the faculty of Harvard
+School of Public Health upon receiving her Ph.D., and remains there as research
+professor, after her retirement in 2015. The interview was conducted in Boston,
+Massachusetts, in July 2014. A link to Nan's full CV can be found at
+\surlwww.hsph.harvard.edu/nan-laird/.
+",2015-12-11T05:53:11Z,[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44dfb4d0>],stat.OT
+http://arxiv.org/abs/quant-ph/0404064v2,NMR Techniques for Quantum Control and Computation,"  Fifty years of developments in nuclear magnetic resonance (NMR) have resulted
+in an unrivaled degree of control of the dynamics of coupled two-level quantum
+systems. This coherent control of nuclear spin dynamics has recently been taken
+to a new level, motivated by the interest in quantum information processing.
+NMR has been the workhorse for the experimental implementation of quantum
+protocols, allowing exquisite control of systems up to seven qubits in size.
+Here, we survey and summarize a broad variety of pulse control and tomographic
+techniques which have been developed for and used in NMR quantum computation.
+Many of these will be useful in other quantum systems now being considered for
+implementation of quantum information processing tasks.
+",2004-04-10T11:32:20Z,"[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e122f0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e12410>]",quant-ph
+http://arxiv.org/abs/1812.05247v2,Using H$α$ Filaments to Probe AGN Feedback in Galaxy Clusters,"  Recent observations of giant ellipticals and brightest cluster galaxies
+(BCGs) provide tentative evidence for a correlation between the luminosity of
+the H$\alpha$ emitting gas filaments and the strength of feedback associated
+with the active galactic nucleus (AGN). Motivated by this, we use 3D
+radiation-hydrodynamic simulations with the code Enzo to examine and quantify
+the relationship between the observable properties of the H$\alpha$ filaments
+and the kinetic and radiative feedback from supermassive black holes in BCGs.
+We find that the spatial extent and total mass of the filaments show positive
+correlations with AGN feedback power and can therefore be used as probes of the
+AGN activity. We also examine the relationship between the AGN feedback power
+and velocity dispersion of the H$\alpha$ filaments and find that the kinetic
+luminosity shows statistically significant correlation with the component of
+the velocity dispersion along the jet axis but not the components perpendicular
+to it.
+",2018-12-13T03:12:34Z,"[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e12b90>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e12cb0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e12dd0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e12f50>]",astro-ph.GA
+http://arxiv.org/abs/astro-ph/0407088v1,"Initial Scientific Results from Phase-Referenced Astrometry of
+  Sub-Arcsecond Binaries","  The Palomar Testbed Interferometer has observed several binary star systems
+whose separations fall between the interferometric coherence length (a few
+hundredths of an arcsecond) and the typical atmospheric seeing limit of one
+arcsecond. Using phase-referencing techniques we measure the relative
+separations of the systems to precisions of a few tens of micro-arcseconds. We
+present the first scientific results of these observations, including the
+astrometric detection of the faint third stellar component of the kappa Pegasi
+system.
+",2004-07-05T17:20:25Z,"[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e1e7d0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e1e950>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e1ead0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e1ec50>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e1edd0>]",astro-ph
+http://arxiv.org/abs/astro-ph/0210671v1,Electromagnetic Outflows and GRBs,"  We study the dynamics of relativistic electromagnetic explosions as a
+possible mechanism for the production of Gamma-Ray Bursts. We propose that a
+rotating relativistic stellar-mass progenitor loses much of its spin energy in
+the form of an electromagnetically-dominated outflow.
+  After the flow becomes optically thin, it forms a relativistically expanding,
+non-spherically symmetric magnetic bubble - a ''cold fireball''. We analyze the
+structure and dynamics of such a cavity in the force-free approximation. During
+relativistic expansion, most of the magnetic energy in the bubble is
+concentrated in a thin shell near its surface (contact discontinuity). We
+suggest that either the polar current or the shell currents become unstable to
+electromagnetic instabilities at a radius $\sim10^{16}$ cm. This leads to
+acceleration of pairs and causes the $\gamma$-ray emission. At a radius
+$\sim10^{17}$ cm, the momentum contained in the electromagnetic shell will have
+been largely transferred to the surrounding blast wave propagating into the
+circumstellar medium. Particles accelerated at the fluid shock may combine with
+electromagnetic field from the electromagnetic shell to produce the afterglow
+emission.
+",2002-10-30T23:04:50Z,"[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e02650>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e02770>]",astro-ph
+http://arxiv.org/abs/2004.09792v1,"Discretized Wiener-Khinchin theorem for Fourier-Laplace transformation:
+  application to molecular simulations","  The Wiener-Khinchin theorem for the Fourier-Laplace transformation (WKT-FLT)
+provides a robust method to calculate numerically single-side Fourier
+transforms of arbitrary autocorrelation functions from molecular simulations.
+However, the existing WKT-FLT equation produces two artifacts in the output of
+the frequency-domain relaxation function. In addition, these artifacts are more
+apparent in the frequency-domain response function converted from the
+relaxation function. We find the sources of these artifacts that are associated
+with the discretization of the WKT-FLT equation. Taking these sources into
+account, we derive the new discretized WKT-FLT equations designated for both
+the frequency-domain relaxation and response functions with the artifacts
+removed. The use of the discretized WKT-FLT equations is illustrated by a flow
+chart of an on-the-fly algorithm. We also give application examples of the
+discretized WKT-FLT equations for computing dynamic structure factor and
+wave-vector-dependent dynamic susceptibility from molecular simulations.
+",2020-04-21T07:43:18Z,"[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44e02e90>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f456ee0b0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f456ee230>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f456ee3b0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f456ee530>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f456ee650>]",physics.comp-ph
+http://arxiv.org/abs/gr-qc/0507097v1,Frequency and surface dependence of the mechanical loss in fused silica,"  We have compiled measurements of the mechanical loss in fused silica from
+samples spanning a wide range of geometries and resonant frequency in order to
+model the known variation of the loss with frequency and surface-to-volume
+ratio. This improved understanding of the mechanical loss has contributed
+significantly to the design of advanced interferometric gravitational wave
+detectors, which require ultra-low loss materials for their test mass mirrors.
+",2005-07-23T03:04:23Z,"[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f456eecb0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f456eee30>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f456eef50>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f4570c110>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f4570c290>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f4570c3b0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f4570c530>]",gr-qc
+http://arxiv.org/abs/2007.13920v2,"Re-examining rates of lithium-ion battery technology improvement and
+  cost decline","  Lithium-ion technologies are increasingly employed to electrify
+transportation and provide stationary energy storage for electrical grids, and
+as such their development has garnered much attention. However, their
+deployment is still relatively limited, and their broader adoption will depend
+on their potential for cost reduction and performance improvement.
+Understanding this potential can inform critical climate change mitigation
+strategies, including public policies and technology development efforts.
+However, many existing models of past cost decline, which often serve as
+starting points for forecasting models, rely on limited data series and
+measures of technological progress. Here we systematically collect, harmonize,
+and combine various data series of price, market size, research and
+development, and performance of lithium-ion technologies. We then develop
+representative series for these measures and employ performance curve models to
+estimate improvement rates. We also develop a method to incorporate additional
+performance characteristics into these models, including energy density and
+specific energy performance metrics. When energy density is incorporated into
+the definition of service provided by a lithium-ion cell, estimated
+technological improvement rates increase considerably, suggesting that
+previously reported improvement rates might underestimate the rate of
+lithium-ion technologies' change. Moreover, our estimates suggest the degree to
+which lithium-ion technologies' price decline might have been limited by
+performance requirements other than cost per energy capacity. These rates also
+suggest that battery technologies developed for stationary applications, where
+restrictions on volume and mass are relaxed, might achieve faster cost
+declines, though engineering-based mechanistic cost modeling is required to
+further characterize this potential.
+",2020-07-28T00:15:47Z,"[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f4570cd70>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f4570ce90>]",physics.soc-ph
+http://arxiv.org/abs/quant-ph/0509051v1,"A Quantum Logic Array Microarchitecture: Scalable Quantum Data Movement
+  and Computation","  Recent experimental advances have demonstrated technologies capable of
+supporting scalable quantum computation. A critical next step is how to put
+those technologies together into a scalable, fault-tolerant system that is also
+feasible. We propose a Quantum Logic Array (QLA) microarchitecture that forms
+the foundation of such a system. The QLA focuses on the communication resources
+necessary to efficiently support fault-tolerant computations. We leverage the
+extensive groundwork in quantum error correction theory and provide analysis
+that shows that our system is both asymptotically and empirically fault
+tolerant. Specifically, we use the QLA to implement a hierarchical, array-based
+design and a logarithmic expense quantum-teleportation communication protocol.
+Our goal is to overcome the primary scalability challenges of reliability,
+communication, and quantum resource distribution that plague current proposals
+for large-scale quantum computing.
+",2005-09-07T17:13:06Z,"[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f45721650>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f457217d0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f45721950>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f45721ad0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f45721c50>]",quant-ph
+http://arxiv.org/abs/astro-ph/9709059v1,"Measurement of the Hubble Constant Via Gravitational Lensing--- A Review
+  of the Jodrell Bank ``Golden Lenses'' Workshop","  Gravitational lensing is now widely and successfully used to study a range of
+astronomical phenomena, from individual objects, like galaxies and clusters, to
+the mass distribution on various scales, to the overall geometry of the
+Universe. Here we describe and assess the use of gravitational lensing as
+``gold standards'' in addressing one of the fundamental problems in astronomy,
+the determination of the absolute distance scale to extragalactic objects. This
+is commonly parameterized by the Hubble constant, $H_0$, the current expansion
+rate of the Universe. The elegance of the underlying geometrical principle of
+the gravitational lensing method combined with the recent advances in
+observations and modelling makes it a very promising technique for measuring
+$H_0$.
+",1997-09-08T12:14:51Z,"[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f457183b0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f45718530>]",astro-ph
+http://arxiv.org/abs/astro-ph/0210206v1,Dynamics of relativistic reconnection,"  The dynamics of the steady-state Sweet--Parker-type reconnection is analyzed
+in relativistic regime when energy density in the inflowing region is dominated
+by magnetic field. The structure of reconnection layer (its thickness, inflow
+and outflow velocities) depends on the ratio of two large dimensionless
+parameters of the problem - magnetization parameter $\sigma \gg 1$ (the ratio
+of the magnetic to particle energy-densities in the inflowing region) and the
+Lundquist number $S$. The inflow velocity may be relativistic (for $ S<
+\sigma$) or non-relativistic (for $ S > \sigma$), while the outflowing plasma
+is moving always relativisticly. For extremely magnetized plasmas with $\sigma
+\geq S^2$, the inflow four-velocity becomes of the order of the \Alfven
+four-velocity.
+",2002-10-09T14:30:35Z,"[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f45718cb0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f45718dd0>]",astro-ph
+http://arxiv.org/abs/astro-ph/9912499v1,RC J1148+0455 identification: gravitational lens or group of galaxies ?,"  The structure of the radio source RC B1146+052 of the ``Cold'' catalogue is
+investigated by data of the MIT-GB-VLA survey at 4850 MHz. This source belongs
+to the steep spectrum radio sources subsample of the RC catalogue. Its spectral
+index is $\alpha$ = -1.04. The optical image of this source obtained with 6m
+telescope is analysed. The radio source center is situated in a group of 8
+galaxies of about 24$^m$ in the R-filter. The possible explanations of the
+complex structure of radio components are considered.
+",1999-12-23T16:21:31Z,"[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f45720710>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f45720830>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f45720950>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f45720a70>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f45720b90>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f45720cb0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f45720dd0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f45720f50>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f45700290>]",astro-ph
+http://arxiv.org/abs/1907.01463v1,Reproducibility in Machine Learning for Health,"  Machine learning algorithms designed to characterize, monitor, and intervene
+on human health (ML4H) are expected to perform safely and reliably when
+operating at scale, potentially outside strict human supervision. This
+requirement warrants a stricter attention to issues of reproducibility than
+other fields of machine learning.
+  In this work, we conduct a systematic evaluation of over 100 recently
+published ML4H research papers along several dimensions related to
+reproducibility. We find that the field of ML4H compares poorly to more
+established machine learning fields, particularly concerning data and code
+accessibility. Finally, drawing from success in other fields of science, we
+propose recommendations to data providers, academic publishers, and the ML4H
+research community in order to promote reproducible research moving forward.
+",2019-07-02T15:46:46Z,"[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f45700770>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f45700530>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f45700410>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f457002f0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f45700170>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f4570ad10>]",cs.LG
+http://arxiv.org/abs/physics/0508106v1,Vlasov Simulations of Trapping and Inhomogeneity in Raman Scattering,"  We study stimulated Raman scattering (SRS) in laser-fusion conditions with
+the Eulerian Vlasov code ELVIS. Back SRS from homogeneous plasmas occurs in
+sub-picosecond bursts and far exceeds linear theory. Forward SRS and re-scatter
+of back SRS are also observed. The plasma wave frequency downshifts from the
+linear dispersion curve, and the electron distribution shows flattening. This
+is consistent with trapping and reduces the Landau damping. There is some
+acoustic ($\omega\propto k$) activity and possibly electron acoustic scatter.
+Kinetic ions do not affect SRS for early times but suppress it later on. SRS
+from inhomogeneous plasmas exhibits a kinetic enhancement for long density
+scale lengths. More scattering results when the pump propagates to higher as
+opposed to lower density.
+",2005-08-17T04:19:03Z,"[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f4570aa70>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f4570a8f0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f4570a770>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f4570a650>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f4570a470>]",physics.plasm-ph
+http://arxiv.org/abs/1112.4104v1,Latest Flow Results from PHENIX at RHIC,"  At the Relativistic Heavy Ion Collider (RHIC), key insights into the bulk
+properties of the hot and dense partonic matter arise from the study of
+azimuthal anisotropy ($v_2$) of the produced particles. These insights include
+indicating the matter undergoes rapid thermalization and behaves
+hydrodynamically at low $p_T$. Recently a low energy scan ($\le \sqrt{s_{NN}}$
+= 62.4 GeV) began at RHIC to search for the QGP critical point, where a change
+in $v_2$ from higher energies could play a key role in its identification.
+Additionally, higher order flow harmonics have recently been shown to provide
+constraints on initial geometry fluctuations. Discussed here are some of the
+latest low energy and higher order flow results from PHENIX.
+",2011-12-18T00:38:25Z,[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f45715530>],nucl-ex
+http://arxiv.org/abs/2008.02362v1,Single-hemisphere dynamos in M-dwarf stars,"  M-dwarf stars below a certain mass are convective from their cores to their
+photospheres. These fully convective objects are extremely numerous, very
+magnetically active, and the likely hosts of many exoplanets. Here we study,
+for the first time, dynamo action in simulations of stratified, rotating fully
+convective M-dwarf stars. Importantly, we use new techniques to capture the
+correct full ball geometry down to the center of the star. We find surprising
+dynamo states in these systems, with the global-scale mean fields confined
+strongly to a single hemisphere, in contrast to prior stellar dynamo solutions.
+These hemispheric-dynamo stars are likely to have profoundly different
+interactions with their surroundings, with important implications for exoplanet
+habitability and stellar spindown.
+",2020-08-05T20:54:50Z,"[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f45715e30>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f45715f50>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f457120b0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f457121d0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f457122f0>]",astro-ph.SR
+http://arxiv.org/abs/astro-ph/0110365v1,Discovery of 5.16s pulsations from the isolated neutron star RBS 1223,"  The isolated neutron star candidate RBS 1223 was observed with the Advanced
+CCD Imaging Spectrometer aboard the Chandra X-ray observatory on 2000 June 24.
+A timing analysis of the data yielded a periodic modulation with a period
+P=5.1571696^(+1.57*10^(-4) -1.36*10^(-4)s. Using ROSAT HRI archived
+observations we detected a period P=5.1561274 \pm 4.4*10^(-4)s and determined
+period derivative dP/dt=(0.7 - 2.0)*10^(-11) s*s^(-1). The detection of this
+period and dP/dt indicates that RBS 12223 has a ``characteristic'' age of
+6000-12000 years and huge magnetic field at the surface (B(dipole)~(1.7-
+3.2)*10^(+14) G) typical for anomalous X-ray pulsars (AXPs).
+",2001-10-16T11:57:02Z,"[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f45712bf0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f45712d70>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f45712ef0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f457290b0>]",astro-ph
+http://arxiv.org/abs/1706.06247v1,"Low Resolution Face Recognition Using a Two-Branch Deep Convolutional
+  Neural Network Architecture","  We propose a novel couple mappings method for low resolution face recognition
+using deep convolutional neural networks (DCNNs). The proposed architecture
+consists of two branches of DCNNs to map the high and low resolution face
+images into a common space with nonlinear transformations. The branch
+corresponding to transformation of high resolution images consists of 14 layers
+and the other branch which maps the low resolution face images to the common
+space includes a 5-layer super-resolution network connected to a 14-layer
+network. The distance between the features of corresponding high and low
+resolution images are backpropagated to train the networks. Our proposed method
+is evaluated on FERET data set and compared with state-of-the-art competing
+methods. Our extensive experimental results show that the proposed method
+significantly improves the recognition performance especially for very low
+resolution probe face images (11.4% improvement in recognition accuracy).
+Furthermore, it can reconstruct a high resolution image from its corresponding
+low resolution probe image which is comparable with state-of-the-art
+super-resolution methods in terms of visual quality.
+",2017-06-20T02:54:52Z,"[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f45729890>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f45729a10>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f45729b90>]",cs.CV
+http://arxiv.org/abs/cs/0701132v2,Certifying controls and systems software,"  Software system certification presents itself with many challenges, including
+the necessity to certify the system at the level of functional requirements,
+code and binary levels, the need to chase down run-time errors, and the need
+for proving timing properties of the eventual, compiled system. This paper
+illustrates possible approaches for certifying code that arises from control
+systems requirements as far as stability properties are concerned. The relative
+simplicity of the certification process should encourage the development of
+systematic procedures for certifying control system codes for more complex
+environments.
+",2007-01-21T19:34:45Z,"[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f457242f0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f45724410>]",cs.SE
+http://arxiv.org/abs/cond-mat/0408294v1,High Temperature Ferromagnetism in Zn1-xMnxO semiconductor thin films,"  Clear evidence of ferromagnetic behavior at temperatures >400 K as well as
+spin polarization of the charge carriers have been observed in ZnMnO thin films
+grown on Al2O3 and MgO substrates. The magnetic properties depended on the
+exact Mn concentration and the growth parameters. In well-characterized
+single-phase films, the magnetic moment is 4.8?B/Mn at 350 K, the highest
+moment yet reported for any Mn doped magnetic semiconductor. Anomalous Hall
+effect shows that the charge carriers (electrons) are spin polarized and
+participate in the observed ferromagnetic behavior.
+",2004-08-12T20:09:15Z,"[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f45724a70>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f45724b90>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f45724cb0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f45724dd0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f45724ef0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f456f9050>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f456f9170>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f456f9290>]",cond-mat.mtrl-sci
+http://arxiv.org/abs/1301.1450v3,Impurity transport in trapped electron mode driven turbulence,"  Trapped electron mode turbulence is studied by gyrokinetic simulations with
+the GYRO code and an analytical model including the effect of a poloidally
+varying electrostatic potential. Its impact on radial transport of high-Z trace
+impurities close to the core is thoroughly investigated and the dependence of
+the zero-flux impurity density gradient (peaking factor) on local plasma
+parameters is presented. Parameters such as ion-to-electron temperature ratio,
+electron temperature gradient and main species density gradient mainly affect
+the impurity peaking through their impact on mode characteristics. The poloidal
+asymmetry, the safety factor and magnetic shear have the strongest effect on
+impurity peaking, and it is shown that under certain scenarios where trapped
+electron modes are dominant, core accumulation of high-Z impurities can be
+avoided. We demonstrate that accounting for the momentum conservation property
+of the impurity-impurity collision operator can be important for an accurate
+evaluation of the impurity peaking factor.
+",2013-01-08T09:15:46Z,"[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f456f9950>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f456f9ad0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f456f9c50>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f456f9dd0>]",physics.plasm-ph
+http://arxiv.org/abs/2006.13926v1,Freely scalable and reconfigurable optical hardware for deep learning,"  As deep neural network (DNN) models grow ever-larger, they can achieve higher
+accuracy and solve more complex problems. This trend has been enabled by an
+increase in available compute power; however, efforts to continue to scale
+electronic processors are impeded by the costs of communication, thermal
+management, power delivery and clocking. To improve scalability, we propose a
+digital optical neural network (DONN) with intralayer optical interconnects and
+reconfigurable input values. The near path-length-independence of optical
+energy consumption enables information locality between a transmitter and
+arbitrarily arranged receivers, which allows greater flexibility in
+architecture design to circumvent scaling limitations. In a proof-of-concept
+experiment, we demonstrate optical multicast in the classification of 500 MNIST
+images with a 3-layer, fully-connected network. We also analyze the energy
+consumption of the DONN and find that optical data transfer is beneficial over
+electronics when the spacing of computational units is on the order of >10
+micrometers.
+",2020-06-24T17:54:01Z,"[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44d4b5f0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44d4b770>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44d4b8f0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44d4bad0>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44d4bc50>, <Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44d4be30>]",cs.ET
+http://arxiv.org/abs/1711.07348v1,Thermodynamic Design and Fouling of Membrane Distillation Systems,"  As water shortages intensify globally under the stresses of increasing
+demand, aquifer depletion, and climate change, the market for efficient
+desalination technologies has grown rapidly to fill the void. One such
+developing technology, membrane distillation (MD), has experienced keen
+academic interest and an increase in start-up businesses in the past decade. MD
+has expanded into a niche of small scale thermal desalination using solar and
+waste heat resources, due to its fouling resistance, scalability, and
+acceptable efficiency. Recent studies indicate that MD could attain the
+efficiencies of state-of-the-art mature thermal desalination technologies,
+although additional engineering and scientific challenges must first be
+overcome.
+  The aim of this research is to better understand and provide solutions for
+two major challenge areas for MD: efficiency and membrane fouling. Studies on
+improving MD efficiency included examining the effects of tilt angle on MD
+performance using numerical simulations paired with experiments, devising a
+novel MD system design for with superhydrophobic surfaces to improved
+efficiencies, and an entropy-generation comparison of MD to other desalination
+technologies. For fouling studies in MD, a review of MD fouling was undertaken
+to synthesize conclusions from the literature and to explore gaps in the
+literature. This review lead to studies of the effect of filtration and bulk
+nucleation on MD fouling, a study on heterogeneous nucleation of inorganic
+salts with a fouling regime map to avoid nucleation, and fouling prevention via
+induced air-layers.
+",2017-11-20T15:00:29Z,[<Element '{http://www.w3.org/2005/Atom}name' at 0x7f4f44d39530>],physics.app-ph
